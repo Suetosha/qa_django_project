@@ -21,8 +21,7 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone <URL_репозитория>
-cd <название_папки>
+git clone https://github.com/Suetosha/qa_django_project.git
 ```
 
 ### 2. Создайте .env файл
